@@ -4,11 +4,7 @@ A React Native Native Module (Bridge) that connects native iOS (Swift/Objective-
 Android (Java/Kotlin) code with a React Native TypeScript layer. The module will manage the
 functionality of searching for Bluetooth Low Energy (BLE) peripherals.
 
-![UI preview](assets/ble-1.jpg)
-![UI preview](assets/ble-2.jpg)
-![UI preview](assets/ble-3.jpg)
-![UI preview](assets/ble-4.jpg)
-
+![UI preview](assets/ble-scanner-preview.png)
 
 ## Features
 
